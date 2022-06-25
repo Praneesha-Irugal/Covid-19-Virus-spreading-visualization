@@ -4,7 +4,6 @@
 First we Need to import  
 ```import matplotlib.pyplot as plt```       
 ```import matplotlib.animation as ani```
-
 [using these for data visualization]  
   
 And then we have to import  
@@ -17,5 +16,9 @@ RED = (0.96, 0.15, 0.15)   # infected
 GREEN = (0, 0.86, 0.03)    # recovered
 BLACK = (0, 0, 0)          # dead
 ```
-https://user-images.githubusercontent.com/56305868/175769839-688efd99-1bcf-40eb-8b38-9f1239c80180.mp4
+
+
+
+https://user-images.githubusercontent.com/56305868/175770472-19eb9f6c-af84-4776-be10-213da849c855.mp4
+
 
