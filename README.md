@@ -1,6 +1,13 @@
 # Covid-19-Virus-spreading-visualization
-Simulate the spread of a virus, using covid-19 using NumPy and Matplotlib
+##Simulate the spread of a virus, using covid-19 using NumPy and Matplotlib
 
+First we Need to import 
+'import matplotlib.pyplot as plt'
+'import matplotlib.animation as ani'
+[using these for data visualization]
 
-https://user-images.githubusercontent.com/56305868/175769536-73fb9d44-9ceb-47d8-977c-97157acea244.mp4
+And then we have to import
+'import numpy as np'
+
+https://user-images.githubusercontent.com/56305868/175769839-688efd99-1bcf-40eb-8b38-9f1239c80180.mp4
 
